@@ -13,16 +13,16 @@ Headers
 #### You can't really make a header bold, but you can _italicize_ certain words.
 
 Links
-[This is an inline link. link text goes here](link.url.goes.here)
+[This is an inline link. Link text goes here](link.url.goes.here)
 
-[This is a reference link. As before text goes here][reference tag, defined a the bottom of the document]
-[reference tag, defined a the bottom of the document]: link.url.goes.here
+[This is a reference link. As before text goes here][reference tag, defined at the bottom of the document]
+[reference tag, defined at the bottom of the document]: link.url.goes.here
 
 Images
 ![This is an inline image, Alt text goes here](image.url.goes.here)
 
-![This is a reference image, As before text goes here][image reference tag, defined a the bottom of the document]
-[image reference tag, defined a the bottom of the document]: image.url.goes.here
+![This is a reference image, As before text goes here][image reference tag, defined at the bottom of the document]
+[image reference tag, defined at the bottom of the document]: image.url.goes.here
 
 Blockquotes
 > This is a blockquote that span multiple lines
